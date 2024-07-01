@@ -26,9 +26,6 @@ I thrive in dynamic environments where I can apply my problem-solving skills to 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-## 📊 GitHub Stats
-![Joko's GitHub stats](https://github-readme-stats.vercel.app/api?username=JokoSetiawan-dev&show_icons=true&theme=radical)
-
 ## 📫 Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/jstwan/)
 - [Personal Website](https://jokosetiawan-dev.netlify.app/)
