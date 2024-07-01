@@ -3,7 +3,11 @@
 # Hi there, I'm Joko Setiawan! 👋
 
 ## About Me
-I'm a passionate Software Engineer with a strong background in web development. I enjoy crafting efficient and scalable web applications using modern technologies.
+I'm Joko Setiawan, a dedicated and enthusiastic Software Engineer with a passion for learning and mastering new technologies. My journey in the tech world began with a fascination for how things work, and this curiosity has driven me to continuously expand my skill set and embrace new challenges.
+
+Throughout my career, I've developed a strong foundation in web development, proficiently working with a variety of tools and technologies. I pride myself on being a fast learner, always eager to dive into new frameworks, libraries, and methodologies to stay ahead in the ever-evolving tech landscape.
+
+I thrive in dynamic environments where I can apply my problem-solving skills to create innovative and efficient solutions. My adaptability allows me to quickly pick up new tools and integrate them into my projects, ensuring that I can always deliver the best possible results. Whether it's frontend, backend, or full-stack development, I'm committed to building high-quality, scalable applications that meet user needs and exceed expectations.
 
 ## 🔧 Skills & Technologies
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
